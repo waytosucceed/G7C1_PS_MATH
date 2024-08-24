@@ -1,0 +1,231 @@
+{
+  "heading": "Whole numbers and Integers",
+  "topics": [
+    {
+      "heading": "Whole numbers and Integers",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "If the explorers find 20 treasures in the ones place, 5 treasures in the tens place, and 3 treasures in the hundreds place, how many treasures did they discover in total?",
+            "options": [
+                "253",
+                "523",
+                "370",
+                "380"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 2,
+            "question": "The explorers then encounter a hidden trap where they need to identify which place-value model shows 2,113?",
+            "options": [
+                "1.jpg",
+                "2.jpg"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 3,
+            "question": "An explorer finds 50 gold coins in one chest and 20 gold coins in another chest. Unfortunately, they accidentally drop 10 coins into a pit. What is the explorer's net gain or loss of gold coins?",
+            "options": [
+                "30",
+                "10",
+                "70",
+                "80"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 4,
+            "question": "The explorers found a place value chart. What number is shown?",
+            "options": [
+                "6140",
+                "614",
+                "6014",
+                "None of the above"
+            ],
+            "answer": 0,
+            "image": "./assests/images/4.jpg"
+        },
+        {
+            "questionNo": 5,
+            "question": "In the maze, the explorers encounter a trap in which they need to identify which number sentence is not true?",
+            "options": [
+                "4 + 500 = 504",
+                "500 + 101 = 601",
+                "5 + 300 = 200 + 105",
+                "50 + 4 = 504"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 6,
+            "question": "Another trap snares the explorers, causing them to lose 40 gold coins. If they've already lost 20 coins, what is the total loss now?",
+            "options": [
+                "80",
+                "-60",
+                "-80",
+                "-20"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 7,
+            "question": "The explorers discover a hidden chamber with a treasure chest containing 60 gems. Each gem is worth -3 integers. What is the total value of the gems?",
+            "options": [
+                "63",
+                "-63",
+                "180",
+                "-180"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 8,
+            "question": "The maze offers a hidden treasure chest containing 120 diamonds. Each diamond is worth -4 integers. What is the total value of the diamonds?",
+            "options": [
+                "-480",
+                "480",
+                "124",
+                "-124"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 9,
+            "question": "Despite the challenges, the explorers discover a cache of 80 ancient artefacts. If each artefact is worth +4 integers, what is the total value of the artefacts?",
+            "options": [
+                "84",
+                "-320",
+                "320",
+                "-84"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 10,
+            "question": "After facing numerous traps, the explorers emerge from the maze with a net gain of 30 gold coins. If they previously lost 40 coins, what is their final count?",
+            "options": [
+                "10",
+                "-10",
+                "70",
+                "-1200"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 11,
+            "question": "The explorers stumble upon a hidden treasure trove filled with 150 rubies. Each ruby is worth -5 integers. What is the total value of the rubies?",
+            "options": [
+                "-145",
+                "155",
+                "-750",
+                "750"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 12,
+            "question": "Despite their losses, the explorers manage to find a cache of 90 emeralds. If each emerald is worth +4 integers, what is the total value of the emeralds?",
+            "options": [
+                "94",
+                "320",
+                "86",
+                "360"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 13,
+            "question": "During their journey, the explorers encountered a series of traps that drained their gold coins. If the explorers started with 70 gold coins and encountered a trap that drained 35 gold coins, what would be the final count?",
+            "options": [
+                "-110",
+                "-35",
+                "110",
+                "35"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 14,
+            "question": "After overcoming numerous obstacles, the explorers found a hidden cache of treasures, gaining 40 gold coins. If their initial count was 15 gold coins, what would be their final count?",
+            "options": [
+                "55",
+                "25",
+                "15",
+                "35"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 15,
+            "question": "Despite the challenges, the explorers managed to find a secret chamber filled with gems, gaining 60 gems. If each gem is worth -3 integers, where would be the total value of the gems?",
+            "options": [
+                "-63",
+                "57",
+                "-180",
+                "180"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 16,
+            "question": "The explorers found two chests of treasures. The first chest added +100 gold coins to their collection, but the second chest contained a trap that caused them to lose -50 gold coins. Compare the integers +100 and -50. Which chest had a greater impact on the explorers' treasure count?",
+            "options": [
+                "The first chest (+100 gold coins)",
+                "The second chest (-50 gold coins)",
+                "Both chests had the same impact",
+                "The impact cannot be determined"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 17,
+            "question": "During their journey, the explorers encountered two traps. The first trap caused them to lose -20 gold coins, and the second trap caused them to lose -30 gold coins. Compare the integers -20 and -30. Which trap resulted in a greater loss for the explorers?",
+            "options": [
+                "The first trap (-20 gold coins)",
+                "The second trap (-30 gold coins)",
+                "Both traps resulted in the same loss",
+                "Cannot be determined from the given information"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 18,
+            "question": "While navigating the Maze of Mysteries, the explorers discovered various treasure rooms. Each room contained a different number of gold coins: 25 coins in the Emerald Chamber, 14 coins in the Ruby Hall, 35 coins in the Sapphire Cave, 18 coins in the Diamond Vault, and 22 coins in the Pearl Chamber. Arrange the number of gold coins in each room in ascending order.",
+            "options": [
+                "14,18,35,25,22",
+                "35,25,22,18,14",
+                "22,25,18,14,35",
+                "14,18,22,25,35"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 19,
+            "question": "On their journey, the explorers also faced traps that made them lose some of their precious gold coins. The losses were: 10 coins in the Pit of Shadows, 15 coins in the Cave of Despair, 5 coins in the Swamp of Sorrows, 25 coins in the Abyss of Doom, and 12 coins in the Valley of Echoes. Arrange the number of lost coins in descending order.",
+            "options": [
+                "12,10,5,15,25",
+                "5,10,12,15,25",
+                "25,15,12,10,5",
+                "25,12,15,5,10"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 20,
+            "question": "At the end of their quest, the explorers tallied their net gains and losses. They had the following results: a gain of 35 coins from the Treasure Tower, a loss of 20 coins from the Dragon's Lair, a gain of 15 coins from the Enchanted Forest, a loss of 10 coins from the Bandit's Hideout, and a gain of 40 coins from the King's Vault. Arrange these net values in descending order.",
+            "options": [
+                "40, 35, 15,-10, -20",
+                "15, 35, 40, -20, -10",
+                "-10, -20, 35, 15, 40",
+                "-20, -10, 15, 35, 40"
+            ],
+            "answer": 0
+        }
+    ]
+    
+    
+    }
+  ]
+}
